@@ -9,13 +9,13 @@ A freely available utility to start and Reset the "Internet Download Manager" tr
 * Written according to the Windows batch script.
 
 # Letest Release v1.0(03-04-2024) 
-Download from [here.](https://github.com/rohitabdullah/IDM-Activator/blob/main/IA.cmd)
+Download from [here.](https://github.com/rohitabdullah/IDM-Activator)
 
 # How is it to be used?
 Get [Internet Download Manager](https://www.internetdownloadmanager.com/) installed from scratch first. Verify that any installed or previously downloaded cracks or patches have been deleted. To activate it after that, take the actions listed below.
 
 # Steps / User Manual 
-* First download IDM-Activator from [here.](https://github.com/rohitabdullah/IDM-Activator/blob/main/IA.cmd) {Named IA.cmd}
+* First download IDM-Activator from [here.](https://github.com/rohitabdullah/IDM-Activator) {Named IA.cmd}
 * Open Windows Defender (Named Windows Security in Windows 11) and disable the "Real-time protection."
 * Open the folder where you downloaded the script and extract it.
 * Run the IA.cmd Script with administrative privileges.
