@@ -22,9 +22,7 @@ Get [Internet Download Manager](https://www.internetdownloadmanager.com/) instal
 * Select any option you want.
 * wait for a few seconds and voila!!! your job's done.
 
-# For Better Understanding, Watch the video tutorial on 
-
-[Facebook](https://fb.watch/rgF7ExT2Iw/?mibextid=Nif5oz)
+# For Better Understanding, Watch the video tutorial on [Facebook](https://fb.watch/rgF7ExT2Iw/?mibextid=Nif5oz)
 
 # NOTE
 * 📌 The activation option is currently not working in the script, use the Freeze trial option to lock the 30-day trial period for the lifetime.
