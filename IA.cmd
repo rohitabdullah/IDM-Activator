@@ -372,7 +372,7 @@ if not defined terminal mode 75, 28
 
 echo:
 echo:
-call :_color2 %_White% "             " %_Green% "Create By ᏒᎧᏂᎥᏖ ᏗᏰᎴᏬᏝᏝᏗᏂ"
+call :_color2 %_White% "             " %_Light Blue% "Create By ROHIT ABDULLAH"
 echo:            ___________________________________________________ 
 echo:
 echo:               Find me on:
